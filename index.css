@@ -89,7 +89,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-color: rgb(119, 233, 218);
     position: relative;
     transition: all 0.5s ease-in;
 }
